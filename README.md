@@ -23,4 +23,6 @@
 
 1.2.9.1 - 24.03.2025
 
-15.12.2025 - add NY model
+15.12.2025 - add NY model - crash
+
+26.12.2025 - fix NY model and fix ProductModal
