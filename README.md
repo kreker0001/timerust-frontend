@@ -1,4 +1,5 @@
 # Timerust-frontend
+## v1
 1.1.9 - 26.01.2025
 
 1.2.0 - 27.01.2025 - crash
@@ -23,6 +24,7 @@
 
 1.2.9.1 - 24.03.2025
 
+## v2
 15.12.2025 - add NY model - crash
 
 26.12.2025 - fix NY model and fix ProductModal
