@@ -28,3 +28,5 @@
 15.12.2025 - add NY model - crash
 
 26.12.2025 - fix NY model and fix ProductModal
+
+04.05.2026 - release Privileges
